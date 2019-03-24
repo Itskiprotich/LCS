@@ -8,8 +8,6 @@ Sample Java code that returns Longest Common Sequence from an input of two chara
                 <div id="pictures" class="column half">
                    <img src="https://firebasestorage.googleapis.com/v0/b/quotes-efd75.appspot.com/o/a.png?alt=media&token=27945675-bbb6-46c4-9182-516a45b78915" alt="HTML5 Icon" style="width:128px;height:250px;">
                 </div>
-                <div id="contactform" class="column second">
-                   <img src="https://firebasestorage.googleapis.com/v0/b/quotes-efd75.appspot.com/o/b.png?alt=media&token=7214049c-4cc1-4eaa-b601-4a3b296bdbb1" alt="HTML5 Icon" style="width:128px;height:250px;">
                    
               
 
@@ -58,7 +56,7 @@ Sample Java code that returns Longest Common Sequence from an input of two chara
 <p>Thanks for the contribution of the following:</p>
 <ul>
   <li>Github Coders</li>
-  <li>Quotes sites</li>
+  <li>Online Code Sites</li>
   </ul>
 <body>
 
