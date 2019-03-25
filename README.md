@@ -6,7 +6,7 @@ Sample Java code that returns Longest Common Sequence from an input of two chara
 </head>
 <div class="body">
                 <div id="pictures" class="column half">
-                   <img src="https://firebasestorage.googleapis.com/v0/b/quotes-efd75.appspot.com/o/a.png?alt=media&token=27945675-bbb6-46c4-9182-516a45b78915" alt="HTML5 Icon" style="width:128px;height:250px;">
+                   <img src="https://firebasestorage.googleapis.com/v0/b/quotes-99653.appspot.com/o/Screenshot.png?alt=media&token=11d2d44f-6188-4d05-b987-10581fecb63e" alt="Code" style="width:128px;height:250px;">
                 </div>
                    
               
@@ -29,21 +29,6 @@ Sample Java code that returns Longest Common Sequence from an input of two chara
   <li> Step 3. Press Enter. Your local clone will be created.</li>
   <li>Step 4. cd Whatsapp-Quotes here youll find all the files </li>
   </ul>
-<h3>Deployment</h3>
-<p>The code can be compilled easily and run on anormal mobile device with the least android version of 4.0</p>
-<h3>Built With</h3>
-<ul> 
-  <li><a href="#">Firebase</a>-Core Dependency for the Mobile Application</li>
-  <li><a href="#">Firebase Firestore</a> - Dependency that provides real times updates of data </li>
-  <li><a href="#">Firebase Cloud Messaging</a> - Dependency that allows for cloud communication</li>
-  </ul>
-  <h3>Icon</h3>
-  <p>Android launcher icons were generated using Android Asset Studio</p>
-<h3>Contributing</h3>
-<p>Please read <a href="#"> CONTRUBTING.md</a> for details on our code of conduct, and the process for submitting pull rerquests to us.</p>
-<h2>Versioning</h2>
-
-<p>We use <a href="#"> SemVer </a> for versioning. For the versions available, see the <a href="#"> tags on this repository </a>.</p>
 <h2>Author</h2>
 <ul>
   <li>Kiprotich Japheth</li>
