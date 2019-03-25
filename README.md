@@ -25,9 +25,9 @@ Sample Java code that returns Longest Common Sequence from an input of two chara
 <ul>
   <li>You can easily clone directly from the link or alternatively: </li>
   <li>Step 1.Copy the link above then open your GIT Bash</li>
-  <li>Step 2. Type git clone, and then paste the URL git clone git@github.com:Keeprawteach/Whatsapp-Quotes.git</li>
+  <li>Step 2. Type git clone, and then paste the URL git clone git@github.com:Keeprawteach/LCS.git</li>
   <li> Step 3. Press Enter. Your local clone will be created.</li>
-  <li>Step 4. cd Whatsapp-Quotes here youll find all the files </li>
+  <li>Step 4. cd LCS here youll find all the files </li>
   </ul>
 <h2>Author</h2>
 <ul>
